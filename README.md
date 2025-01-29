@@ -59,8 +59,8 @@ Recommended VSCode Extensions:
 ### Building the Project
 Navigate to the workspace folder msl_robot_ws and run:
 ```bash
-source install/setup.bash
 colcon build --symlink-install
+source install/setup.bash
 ```
 
 ### Running the Project
