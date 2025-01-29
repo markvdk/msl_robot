@@ -1,0 +1,32 @@
+
+# Build, install, and log directories
+build/
+install/
+log/
+
+# Colcon and workspace files
+.colcon/
+.colcon_meta/
+
+# ROS2 cache and configuration files
+ros2_ws/.ros/
+ros2_ws/launch/*.pyc
+ros2_ws/launch/*.pyo
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Editor/IDE-specific files (optional, adjust for your editor)
+.vscode/
+
+# Temporary files and folders
+*.tmp
+*.bak
+*.old
+
+# Node-specific runtime files
+*.db
+*.log
+*.sqlite3
