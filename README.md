@@ -1,4 +1,4 @@
-# MSL Robot Workspace
+# MSL Robot
 
 This repository contains the ROS 2 Humble workspace for the MSL Robot project.
 
