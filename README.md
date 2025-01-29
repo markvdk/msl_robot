@@ -4,7 +4,7 @@ This repository contains the ROS 2 Humble workspace for the MSL Robot project.
 
 ## Installation
 
-### 1. Install ROS 2 Humble
+### 1. Install ROS 2 Humble on Ubuntu Linux 22.04
 Follow the official ROS 2 installation guide:  
 [ROS 2 Humble Installation](https://docs.ros.org/en/humble/index.html)
 
