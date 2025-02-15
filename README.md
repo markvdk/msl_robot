@@ -99,7 +99,11 @@ Recommended VSCode Extensions:
 -   XML Tools (Josh Johnson)
 
 ### Building the Project
-Navigate to the workspace folder msl_robot_ws and run:
+Make sure you are in the workspace direcory
+```bash
+cd ~/msl_robot/msl_robot_ws
+```
+Build te project:
 ```bash
 colcon build --symlink-install
 source install/setup.bash
