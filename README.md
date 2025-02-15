@@ -110,7 +110,7 @@ source install/setup.bash
 ```
 
 ### Running the Project
-Navigate to the workspace folder msl_robot_ws and run:
+Make sure you are in the workspace direcory and run:
 ```bash
 ros2 launch msl_robot_description msl_robot.launch.py
 ```
